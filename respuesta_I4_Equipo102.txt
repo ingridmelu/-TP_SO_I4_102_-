@@ -1,0 +1,12 @@
+A) El color de fondo de la pagina TESTING es BLUE
+B) El color de fondo de la pagina DESARROLLO es YELLOW
+C) El color de fondo de la pagina MAIN es BLUE
+D) EL icono que quedo en MAIN es el de BETA
+E) Los integrantes que tuvieron problemas al hacer el push fueron BETA y GAMMA
+F) El contribuidor ALFA commiteo cuando BETA y GAMMA estaban editando el index.html
+G) Una solucion es organizarse al hacer un commit, otra es guardar lo que se edito, actualizar la rama y volver hacer el push con los cambios (ya que por consecuencia
+   perderias lo que hayas editado si no guardaste)
+H) Al usar el git push -f o git push --force, sobrescribe todo lo que se cambio, significa que BETA sobrescribiria el nombre, apellido y fecha y hora de ALFA, y a su
+   vez GAMMA lo de BETA
+I) Hacer un archivo de merge.html (o editor que quieras), se eliminan las lineas divisoras de los conflictos y se agrega los <p> de cada uno para, luego agregarlos al
+   index.html
